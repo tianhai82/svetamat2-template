@@ -1,6 +1,6 @@
 # svetamat2-template
 
-This is a fork of Svelte's project template to enable usage of [**Svetamat** - A set of Material UI widgets built on Tailwindcss](https://github.com/tianhai82/svetamat).
+This is a fork of Svelte's project template to enable usage of [**Svetamat2** - A set of Material UI widgets built on Tailwindcss](https://github.com/tianhai82/svetamat2).
 
 To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
 
@@ -26,4 +26,4 @@ yarn
 yarn start
 ```
 
-Navigate to [localhost:5000](http://localhost:8080). You should see your app running. Edit a component file in `src`, save it, and reload the page to see your changes.
+Navigate to [localhost:8080](http://localhost:8080). You should see your app running. Edit a component file in `src`, save it, and reload the page to see your changes.
