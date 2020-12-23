@@ -3,7 +3,7 @@ module.exports = {
     content: ["./src/**/*.svelte", "./node_modules/svetamat2/dist/*.js"],
     whitelistPatterns: [/svelte-/],
     mode: 'all',
-    preserveHtmlElements: false,
+    preserveHtmlElements: true,
   },
   theme: {
     extend: {
